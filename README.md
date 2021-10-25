@@ -7,3 +7,9 @@
 ```sh
 php
 ```
+atau untuk menjalankan file
+```sh
+php -S localhost:8000 -t namafolder
+```
+
+Cara akses bisa dengan localhost:8000 atau localhost:8000/namafile.php
